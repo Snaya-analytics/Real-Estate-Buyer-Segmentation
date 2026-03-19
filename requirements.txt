@@ -5,6 +5,6 @@ seaborn
 streamlit
 scikit-learn
 pydeck
-plotly
+
 
 
