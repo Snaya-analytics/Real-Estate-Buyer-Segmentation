@@ -7,6 +7,3 @@ scikit-learn
 plotly
 pydeck
 altair
-
-
-
