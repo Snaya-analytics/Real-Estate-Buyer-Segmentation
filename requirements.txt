@@ -4,5 +4,6 @@ matplotlib
 seaborn
 streamlit
 scikit-learn
-plotly
+pydeck
+pyplot
 
