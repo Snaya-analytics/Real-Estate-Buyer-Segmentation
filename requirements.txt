@@ -6,6 +6,7 @@ streamlit
 scikit-learn
 plotly
 pydeck
+altair
 
 
 
